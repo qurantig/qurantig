@@ -1,0 +1,101 @@
+.notes-page {
+  padding: 0vh 30vw; /* Reduced padding for better view on larger screens */
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em; /* Add gap between elements */
+}
+
+.back-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border-radius: 5px; /* Make it more modern with rounded corners */
+}
+
+.back-button:hover {
+  background-color: #0056b3;
+}
+
+.note-item {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+  position: relative;
+}
+
+.note-title {
+  color: var(--secondary-color);
+  text-decoration:underline ;
+  font-weight: 600; /* Make the title bold */
+  font-size: 1.5em; /* Slightly increase font size for better visibility */
+  margin: 0em 1em 1em 1em ;
+}
+
+.note-text {
+  font-family: 'GO MONO FOR POWERLINE';
+  font-weight: 500;
+  line-height: 1.5; /* Add line height for better readability */
+  margin-top: 10px;
+}
+
+/* Enhanced style for the delete button */
+.delete-button {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  border: none;
+  background: transparent;
+  font-size: 22px;
+  cursor: pointer;
+  color: #e63946; /* A modern, appealing red color */
+  padding: 10px;
+  border-radius: 50%; /* Make the button circular */
+  transition: all 0.3s ease; /* Smooth transition for hover effects */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+}
+
+/* Hover effect for delete button */
+.delete-button:hover {
+  color: #f44336; /* Brighter red on hover */
+  background-color: rgba(255, 0, 0, 0.1); /* Subtle red background on hover */
+  transform: scale(1.2); /* Scale up the button slightly */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Elevate the shadow on hover */
+}
+
+/* Focus effect for accessibility */
+.delete-button:focus {
+  outline: none;
+  box-shadow: 0px 0px 8px rgba(255, 0, 0, 0.7); /* Glowing red outline on focus */
+}
+
+
+/* Mobile view adjustments */
+@media (max-width: 576px) {
+  .notes-page {
+    padding: 0vh 5vw;
+  }
+
+  .note-item {
+    padding: 15px;
+  }
+
+  .delete-button {
+    top: 5px;
+    right: 5px;
+    font-size: 18px;
+  }
+
+  .note-title {
+    font-size: 1.1em;
+  }
+
+  .note-text {
+    font-size: 0.95em;
+  }
+}

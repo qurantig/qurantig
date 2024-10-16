@@ -1,0 +1,128 @@
+/* check-box.module.css */
+
+.checkbox-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: var(--background-color);  
+  color: var(--text-color);   
+  border-radius: 8px;
+}
+.checkbox-container label {
+  font-weight: bold;
+  font-family: 'Ethiopic Yebse', sans-serif;
+}
+.checkbox-container.horizontal {
+  flex-direction: row;
+  align-items: center;
+}
+
+.main-label {
+  font-weight: bold;
+  font-family: 'Ethiopic Yebse', sans-serif;
+  font-size: 1.3rem;
+  margin-bottom: 8px;
+}
+
+.checkbox-container.horizontal .main-label.left {
+  margin-right: 16px;
+  margin-bottom: 0;
+}
+
+.checkbox-container.horizontal .main-label.right {
+  margin-left: 16px;
+  margin-bottom: 0;
+}
+
+.checkbox-container.horizontal .main-label + .checkbox-options {
+  margin-left: 16px;
+}
+
+.checkbox-container.vertical .main-label.bottom {
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+
+.checkbox-container.vertical .checkbox-options {
+  display: flex;
+  flex-direction: column;
+}
+
+.checkbox-container.horizontal .checkbox-options {
+  display: flex;
+  align-items: center;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 4px;
+  display: inline-block;
+  position: relative;
+  margin-right: 8px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+input[type="checkbox"]:checked {
+  border: 1px solid transparent;
+}
+
+input[type="checkbox"].primary:checked {
+  background-color: var(--primary-color);  
+}
+
+input[type="checkbox"].secondary:checked {
+  background-color: var(--secondary-color); 
+}
+
+input[type="checkbox"].info:checked {
+  background-color: var(--info-color);  
+}
+
+input[type="checkbox"].success:checked {
+  background-color: var(--success-color);  
+}
+
+input[type="checkbox"].warning:checked {
+  background-color: var(--warning-color);  
+}
+
+input[type="checkbox"].error:checked {
+  background-color: var(--error-color);  
+}
+
+input[type="checkbox"].danger:checked {
+  background-color: var(--danger-color);  
+}
+
+input[type="checkbox"]:checked::before {
+  content: '✔';
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 16px;
+  color: #FFF;
+  line-height: 1;
+}
+
+.option label {
+  margin-right: 8px;
+}
+
+.option.inline label {
+  margin: 0 8px;
+}

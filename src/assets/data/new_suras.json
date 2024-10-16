@@ -1,0 +1,914 @@
+[
+    {
+        "arabic_name": "الفاتحة",
+        "english_name": "Al-Fatihah",
+        "number_of_ayas": 7,
+        "sura_id": 1,
+        "tigrigna_name": "እቲ መኽፈቲ",
+        "tigrigna_sura_name_translated": "እቲ መኽፈቲ"
+    },
+    {
+        "arabic_name": "البقرة",
+        "english_name": "Al-Baqarah",
+        "number_of_ayas": 286,
+        "sura_id": 2,
+        "tigrigna_name": "እታ ላም",
+        "tigrigna_sura_name_translated": "እታ ላም"
+    },
+    {
+        "arabic_name": "اٰل عمران",
+        "english_name": "Ali 'Imran",
+        "number_of_ayas": 200,
+        "sura_id": 3,
+        "tigrigna_name": "ስድራ ዒምራን",
+        "tigrigna_sura_name_translated": "ስድራ ዒምራን"
+    },
+    {
+        "arabic_name": "النساۤء",
+        "english_name": "An-Nisa'",
+        "number_of_ayas": 176,
+        "sura_id": 4,
+        "tigrigna_name": "እተን ኣንስቲ",
+        "tigrigna_sura_name_translated": "እተን ኣንስቲ"
+    },
+    {
+        "arabic_name": "الماۤئدة",
+        "english_name": "Al-Ma'idah",
+        "number_of_ayas": 120,
+        "sura_id": 5,
+        "tigrigna_name": "እቲ መኣዲ",
+        "tigrigna_sura_name_translated": "እቲ መኣዲ"
+    },
+    {
+        "arabic_name": "الانعام",
+        "english_name": "Al-An'am",
+        "number_of_ayas": 165,
+        "sura_id": 6,
+        "tigrigna_name": "እተን ጥሪት",
+        "tigrigna_sura_name_translated": "እተን ጥሪት"
+    },
+    {
+        "arabic_name": "الاعراف",
+        "english_name": "Al-A'raf",
+        "number_of_ayas": 206,
+        "sura_id": 7,
+        "tigrigna_name": "ምድያብ",
+        "tigrigna_sura_name_translated": "ምድያብ"
+    },
+    {
+        "arabic_name": "الانفال",
+        "english_name": "Al-Anfal",
+        "number_of_ayas": 75,
+        "sura_id": 8,
+        "tigrigna_name": "እቲ ዝረፋ",
+        "tigrigna_sura_name_translated": "እቲ ዝረፋ"
+    },
+    {
+        "arabic_name": "التوبة",
+        "english_name": "At-Taubah",
+        "number_of_ayas": 129,
+        "sura_id": 9,
+        "tigrigna_name": "ናይ ንስሓ",
+        "tigrigna_sura_name_translated": "ናይ ንስሓ"
+    },
+    {
+        "arabic_name": "يونس",
+        "english_name": "Yunus",
+        "number_of_ayas": 109,
+        "sura_id": 10,
+        "tigrigna_name": "ዮኑስ",
+        "tigrigna_sura_name_translated": "ዮኑስ"
+    },
+    {
+        "arabic_name": "هود",
+        "english_name": "Hud",
+        "number_of_ayas": 123,
+        "sura_id": 11,
+        "tigrigna_name": "ሁድ",
+        "tigrigna_sura_name_translated": "ሁድ"
+    },
+    {
+        "arabic_name": "يوسف",
+        "english_name": "Yusuf",
+        "number_of_ayas": 111,
+        "sura_id": 12,
+        "tigrigna_name": "ዮሴፍ",
+        "tigrigna_sura_name_translated": "ዮሴፍ"
+    },
+    {
+        "arabic_name": "الرّعد",
+        "english_name": "Ar-Ra'd",
+        "number_of_ayas": 43,
+        "sura_id": 13,
+        "tigrigna_name": "እቲ ነጎዳ",
+        "tigrigna_sura_name_translated": "እቲ ነጎዳ"
+    },
+    {
+        "arabic_name": "ابرٰهيم",
+        "english_name": "Ibrahim",
+        "number_of_ayas": 52,
+        "sura_id": 14,
+        "tigrigna_name": "ኣብርሃም",
+        "tigrigna_sura_name_translated": "ኣብርሃም"
+    },
+    {
+        "arabic_name": "الحجر",
+        "english_name": "Al-Hijr",
+        "number_of_ayas": 99,
+        "sura_id": 15,
+        "tigrigna_name": "እቲ ከውሒ",
+        "tigrigna_sura_name_translated": "እቲ ከውሒ"
+    },
+    {
+        "arabic_name": "النحل",
+        "english_name": "An-Nahl",
+        "number_of_ayas": 128,
+        "sura_id": 16,
+        "tigrigna_name": "እቲ ንህቢ",
+        "tigrigna_sura_name_translated": "እቲ ንህቢ"
+    },
+    {
+        "arabic_name": "الاسراۤء",
+        "english_name": "Al-Isra'",
+        "number_of_ayas": 111,
+        "sura_id": 17,
+        "tigrigna_name": "እቲ ጎዕዞ ለይቲ",
+        "tigrigna_sura_name_translated": "እቲ ጎዕዞ ለይቲ"
+    },
+    {
+        "arabic_name": "الكهف",
+        "english_name": "Al-Kahf",
+        "number_of_ayas": 110,
+        "sura_id": 18,
+        "tigrigna_name": "እቲ በዓቲ",
+        "tigrigna_sura_name_translated": "እቲ በዓቲ"
+    },
+    {
+        "arabic_name": "مريم",
+        "english_name": "Maryam",
+        "number_of_ayas": 98,
+        "sura_id": 19,
+        "tigrigna_name": "መርየም",
+        "tigrigna_sura_name_translated": "መርየም"
+    },
+    {
+        "arabic_name": "طٰهٰ",
+        "english_name": "Taha",
+        "number_of_ayas": 135,
+        "sura_id": 20,
+        "tigrigna_name": "ጣሃ",
+        "tigrigna_sura_name_translated": "ጣሃ"
+    },
+    {
+        "arabic_name": "الانبياۤء",
+        "english_name": "Al-Anbiya'",
+        "number_of_ayas": 112,
+        "sura_id": 21,
+        "tigrigna_name": "እቶም ነብያት",
+        "tigrigna_sura_name_translated": "እቶም ነብያት"
+    },
+    {
+        "arabic_name": "الحج",
+        "english_name": "Al-Hajj",
+        "number_of_ayas": 78,
+        "sura_id": 22,
+        "tigrigna_name": "እቲ ንግደት",
+        "tigrigna_sura_name_translated": "እቲ ንግደት"
+    },
+    {
+        "arabic_name": "المؤمنون",
+        "english_name": "Al-Mu'minun",
+        "number_of_ayas": 118,
+        "sura_id": 23,
+        "tigrigna_name": "እቶም ኣመንቲ",
+        "tigrigna_sura_name_translated": "እቶም ኣመንቲ"
+    },
+    {
+        "arabic_name": "النّور",
+        "english_name": "An-Nur",
+        "number_of_ayas": 64,
+        "sura_id": 24,
+        "tigrigna_name": "እቲ ብርሃን",
+        "tigrigna_sura_name_translated": "እቲ ብርሃን"
+    },
+    {
+        "arabic_name": "الفرقان",
+        "english_name": "Al-Furqan",
+        "number_of_ayas": 77,
+        "sura_id": 25,
+        "tigrigna_name": "እቲ መፈላለዪ",
+        "tigrigna_sura_name_translated": "እቲ መፈላለዪ"
+    },
+    {
+        "arabic_name": "الشعراۤء",
+        "english_name": "Asy-Syu'ara'",
+        "number_of_ayas": 227,
+        "sura_id": 26,
+        "tigrigna_name": "እቲ ግጥሚ",
+        "tigrigna_sura_name_translated": "እቲ ግጥሚ"
+    },
+    {
+        "arabic_name": "النمل",
+        "english_name": "An-Naml",
+        "number_of_ayas": 93,
+        "sura_id": 27,
+        "tigrigna_name": "እታ ጻጸ",
+        "tigrigna_sura_name_translated": "እታ ጻጸ"
+    },
+    {
+        "arabic_name": "القصص",
+        "english_name": "Al-Qasas",
+        "number_of_ayas": 88,
+        "sura_id": 28,
+        "tigrigna_name": "እቲ ዛንታ",
+        "tigrigna_sura_name_translated": "እቲ ዛንታ"
+    },
+    {
+        "arabic_name": "العنكبوت",
+        "english_name": "Al-'Ankabut",
+        "number_of_ayas": 69,
+        "sura_id": 29,
+        "tigrigna_name": "እታ ሳሬት",
+        "tigrigna_sura_name_translated": "እታ ሳሬት"
+    },
+    {
+        "arabic_name": "الرّوم",
+        "english_name": "Ar-Rum",
+        "number_of_ayas": 60,
+        "sura_id": 30,
+        "tigrigna_name": "እታ ሮም",
+        "tigrigna_sura_name_translated": "እታ ሮም"
+    },
+    {
+        "arabic_name": "لقمٰن",
+        "english_name": "Luqman",
+        "number_of_ayas": 34,
+        "sura_id": 31,
+        "tigrigna_name": "ሉቕማን",
+        "tigrigna_sura_name_translated": "ሉቕማን"
+    },
+    {
+        "arabic_name": "السّجدة",
+        "english_name": "As-Sajdah",
+        "number_of_ayas": 30,
+        "sura_id": 32,
+        "tigrigna_name": "እቲ ስግዳን",
+        "tigrigna_sura_name_translated": "እቲ ስግዳን"
+    },
+    {
+        "arabic_name": "الاحزاب",
+        "english_name": "Al-Ahzab",
+        "number_of_ayas": 73,
+        "sura_id": 33,
+        "tigrigna_name": "እተን ውድባት",
+        "tigrigna_sura_name_translated": "እተን ውድባት"
+    },
+    {
+        "arabic_name": "سبأ",
+        "english_name": "Saba'",
+        "number_of_ayas": 54,
+        "sura_id": 34,
+        "tigrigna_name": "ሳባ",
+        "tigrigna_sura_name_translated": "ሳባ"
+    },
+    {
+        "arabic_name": "فاطر",
+        "english_name": "Fatir",
+        "number_of_ayas": 45,
+        "sura_id": 35,
+        "tigrigna_name": "ፈጣሪ",
+        "tigrigna_sura_name_translated": "ፈጣሪ"
+    },
+    {
+        "arabic_name": "يٰسۤ",
+        "english_name": "Yasin",
+        "number_of_ayas": 83,
+        "sura_id": 36,
+        "tigrigna_name": "ያሲን",
+        "tigrigna_sura_name_translated": "ያሲን"
+    },
+    {
+        "arabic_name": "الصّٰۤفّٰت",
+        "english_name": "As-Saffat",
+        "number_of_ayas": 182,
+        "sura_id": 37,
+        "tigrigna_name": "እተን ብደረጃ ዝተሰርዓ",
+        "tigrigna_sura_name_translated": "እተን ብደረጃ ዝተሰርዓ"
+    },
+    {
+        "arabic_name": "ص",
+        "english_name": "Sad",
+        "number_of_ayas": 88,
+        "sura_id": 38,
+        "tigrigna_name": "ሰ",
+        "tigrigna_sura_name_translated": "ሰ"
+    },
+    {
+        "arabic_name": "الزمر",
+        "english_name": "Az-Zumar",
+        "number_of_ayas": 75,
+        "sura_id": 39,
+        "tigrigna_name": "እቲ ሰራዊት",
+        "tigrigna_sura_name_translated": "እቲ ሰራዊት"
+    },
+    {
+        "arabic_name": "غافر",
+        "english_name": "Gafir",
+        "number_of_ayas": 85,
+        "sura_id": 40,
+        "tigrigna_name": "ሓዳግ (ይቕረ በሃሊ)",
+        "tigrigna_sura_name_translated": "ሓዳግ (ይቕረ በሃሊ)"
+    },
+    {
+        "arabic_name": "فصّلت",
+        "english_name": "Fussilat",
+        "number_of_ayas": 54,
+        "sura_id": 41,
+        "tigrigna_name": "ዝተተንተነ",
+        "tigrigna_sura_name_translated": "ዝተተንተነ"
+    },
+    {
+        "arabic_name": "الشورى",
+        "english_name": "Asy-Syura",
+        "number_of_ayas": 53,
+        "sura_id": 42,
+        "tigrigna_name": "እቲ ምይይጥ",
+        "tigrigna_sura_name_translated": "እቲ ምይይጥ"
+    },
+    {
+        "arabic_name": "الزخرف",
+        "english_name": "Az-Zukhruf",
+        "number_of_ayas": 89,
+        "sura_id": 43,
+        "tigrigna_name": "ኣዝዩ ዝተሸለመ",
+        "tigrigna_sura_name_translated": "ኣዝዩ ዝተሸለመ"
+    },
+    {
+        "arabic_name": "الدخان",
+        "english_name": "Ad-Dukhan",
+        "number_of_ayas": 59,
+        "sura_id": 44,
+        "tigrigna_name": "እቲ ትኪ",
+        "tigrigna_sura_name_translated": "እቲ ትኪ"
+    },
+    {
+        "arabic_name": "الجاثية",
+        "english_name": "Al-Jasiyah",
+        "number_of_ayas": 37,
+        "sura_id": 45,
+        "tigrigna_name": "እቲ ምንብርካኽ",
+        "tigrigna_sura_name_translated": "እቲ ምንብርካኽ"
+    },
+    {
+        "arabic_name": "الاحقاف",
+        "english_name": "Al-Ahqaf",
+        "number_of_ayas": 35,
+        "sura_id": 46,
+        "tigrigna_name": "እቲ ደንደሳት",
+        "tigrigna_sura_name_translated": "እቲ ደንደሳት"
+    },
+    {
+        "arabic_name": "محمّد",
+        "english_name": "Muhammad",
+        "number_of_ayas": 38,
+        "sura_id": 47,
+        "tigrigna_name": "ሙሓመድ",
+        "tigrigna_sura_name_translated": "ሙሓመድ"
+    },
+    {
+        "arabic_name": "الفتح",
+        "english_name": "Al-Fath",
+        "number_of_ayas": 29,
+        "sura_id": 48,
+        "tigrigna_name": "እቲ ዓወት",
+        "tigrigna_sura_name_translated": "እቲ ዓወት"
+    },
+    {
+        "arabic_name": "الحجرٰت",
+        "english_name": "Al-Hujurat",
+        "number_of_ayas": 18,
+        "sura_id": 49,
+        "tigrigna_name": "እቶም ማይቤታት",
+        "tigrigna_sura_name_translated": "እቶም ማይቤታት"
+    },
+    {
+        "arabic_name": "ق",
+        "english_name": "Qaf",
+        "number_of_ayas": 45,
+        "sura_id": 50,
+        "tigrigna_name": "ቐ",
+        "tigrigna_sura_name_translated": "ቐ"
+    },
+    {
+        "arabic_name": "الذّٰريٰت",
+        "english_name": "Az-Zariyat",
+        "number_of_ayas": 60,
+        "sura_id": 51,
+        "tigrigna_name": "እቲ ምብታን",
+        "tigrigna_sura_name_translated": "ምብታን"
+    },
+    {
+        "arabic_name": "الطور",
+        "english_name": "At-Tur",
+        "number_of_ayas": 49,
+        "sura_id": 52,
+        "tigrigna_name": "እቲ ጎቦ",
+        "tigrigna_sura_name_translated": "እቲ ጎቦ"
+    },
+    {
+        "arabic_name": "النجم",
+        "english_name": "An-Najm",
+        "number_of_ayas": 62,
+        "sura_id": 53,
+        "tigrigna_name": "እቲ ኮኾብ",
+        "tigrigna_sura_name_translated": "እቲ ኮኾብ"
+    },
+    {
+        "arabic_name": "القمر",
+        "english_name": "Al-Qamar",
+        "number_of_ayas": 55,
+        "sura_id": 54,
+        "tigrigna_name": "እታ ወርሒ",
+        "tigrigna_sura_name_translated": "እታ ወርሒ"
+    },
+    {
+        "arabic_name": "الرحمن",
+        "english_name": "Ar-Rahman",
+        "number_of_ayas": 78,
+        "sura_id": 55,
+        "tigrigna_name": "እቲ መሓሪ",
+        "tigrigna_sura_name_translated": "እቲ መሓሪ"
+    },
+    {
+        "arabic_name": "الواقعة",
+        "english_name": "Al-Waqi'ah",
+        "number_of_ayas": 96,
+        "sura_id": 56,
+        "tigrigna_name": "እታ ዘይትተርፍ",
+        "tigrigna_sura_name_translated": "እታ ዘይትተርፍ"
+    },
+    {
+        "arabic_name": "الحديد",
+        "english_name": "Al-Hadid",
+        "number_of_ayas": 29,
+        "sura_id": 57,
+        "tigrigna_name": "እቲ ሓጺን",
+        "tigrigna_sura_name_translated": "እቲ ሓጺን"
+    },
+    {
+        "arabic_name": "المجادلة",
+        "english_name": "Al-Mujadalah",
+        "number_of_ayas": 22,
+        "sura_id": 58,
+        "tigrigna_name": "እታ ተኻታዒት ",
+        "tigrigna_sura_name_translated": "እታ ተኻታዒት "
+    },
+    {
+        "arabic_name": "الحشر",
+        "english_name": "Al-Hasyr",
+        "number_of_ayas": 24,
+        "sura_id": 59,
+        "tigrigna_name": "እቲ ምእካብ",
+        "tigrigna_sura_name_translated": "እቲ ምእካብ"
+    },
+    {
+        "arabic_name": "الممتحنة",
+        "english_name": "Al-Mumtahanah",
+        "number_of_ayas": 13,
+        "sura_id": 60,
+        "tigrigna_name": "እታ እተመርመረት",
+        "tigrigna_sura_name_translated": "እታ እተመርመረት"
+    },
+    {
+        "arabic_name": "الصّفّ",
+        "english_name": "As-Saff",
+        "number_of_ayas": 14,
+        "sura_id": 61,
+        "tigrigna_name": "እቲ መስርዕ",
+        "tigrigna_sura_name_translated": "እቲ መስርዕ"
+    },
+    {
+        "arabic_name": "الجمعة",
+        "english_name": "Al-Jumu'ah",
+        "number_of_ayas": 11,
+        "sura_id": 62,
+        "tigrigna_name": "እቲ ጁምዓ",
+        "tigrigna_sura_name_translated": "እቲ ጁምዓ"
+    },
+    {
+        "arabic_name": "المنٰفقون",
+        "english_name": "Al-Munafiqun",
+        "number_of_ayas": 11,
+        "sura_id": 63,
+        "tigrigna_name": "እቶም ሙናፉቓት",
+        "tigrigna_sura_name_translated": "እቶም ሙናፉቓት"
+    },
+    {
+        "arabic_name": "التغابن",
+        "english_name": "At-Tagabun",
+        "number_of_ayas": 18,
+        "sura_id": 64,
+        "tigrigna_name": "እቲ ምብልላጽ",
+        "tigrigna_sura_name_translated": "እቲ ምብልላጽ"
+    },
+    {
+        "arabic_name": "الطلاق",
+        "english_name": "At-Talaq",
+        "number_of_ayas": 12,
+        "sura_id": 65,
+        "tigrigna_name": "እቲ ፍትሕ",
+        "tigrigna_sura_name_translated": "እቲ ፍትሕ"
+    },
+    {
+        "arabic_name": "التحريم",
+        "english_name": "At-Tahrim",
+        "number_of_ayas": 12,
+        "sura_id": 66,
+        "tigrigna_name": "እቲ ምሕራም",
+        "tigrigna_sura_name_translated": "እቲ ምሕራም"
+    },
+    {
+        "arabic_name": "الملك",
+        "english_name": "Al-Mulk",
+        "number_of_ayas": 30,
+        "sura_id": 67,
+        "tigrigna_name": "እቲ ንግስነት",
+        "tigrigna_sura_name_translated": "እቲ ንግስነት"
+    },
+    {
+        "arabic_name": "القلم",
+        "english_name": "Al-Qalam",
+        "number_of_ayas": 52,
+        "sura_id": 68,
+        "tigrigna_name": "እቲ ብርዒ",
+        "tigrigna_sura_name_translated": "እቲ ብርዒ"
+    },
+    {
+        "arabic_name": "الحاۤقّة",
+        "english_name": "Al-Haqqah",
+        "number_of_ayas": 52,
+        "sura_id": 69,
+        "tigrigna_name": "እታ ሓቃዊት",
+        "tigrigna_sura_name_translated": "እታ ሓቃዊት"
+    },
+    {
+        "arabic_name": "المعارج",
+        "english_name": "Al-Ma'arij",
+        "number_of_ayas": 44,
+        "sura_id": 70,
+        "tigrigna_name": "እቲ መዕረጊት",
+        "tigrigna_sura_name_translated": "እቲ መዕረጊት"
+    },
+    {
+        "arabic_name": "نوح",
+        "english_name": "Nuh",
+        "number_of_ayas": 28,
+        "sura_id": 71,
+        "tigrigna_name": "ኖህ",
+        "tigrigna_sura_name_translated": "ኖህ"
+    },
+    {
+        "arabic_name": "الجن",
+        "english_name": "Al-Jinn",
+        "number_of_ayas": 28,
+        "sura_id": 72,
+        "tigrigna_name": "እቶም ጋኔን",
+        "tigrigna_sura_name_translated": "እቶም ጋኔን"
+    },
+    {
+        "arabic_name": "المزّمّل",
+        "english_name": "Al-Muzzammil",
+        "number_of_ayas": 20,
+        "sura_id": 73,
+        "tigrigna_name": "እቲ ዝተጎልበበ",
+        "tigrigna_sura_name_translated": "እቲ ዝተጎልበበ"
+    },
+    {
+        "arabic_name": "المدّثّر",
+        "english_name": "Al-Muddassir",
+        "number_of_ayas": 56,
+        "sura_id": 74,
+        "tigrigna_name": "እቲ እተሸፈነ",
+        "tigrigna_sura_name_translated": "እቲ እተሸፈነ"
+    },
+    {
+        "arabic_name": "القيٰمة",
+        "english_name": "Al-Qiyamah",
+        "number_of_ayas": 40,
+        "sura_id": 75,
+        "tigrigna_name": "እታ ምጽኣት ዓለም",
+        "tigrigna_sura_name_translated": "እታ ምጽኣት ዓለም"
+    },
+    {
+        "arabic_name": "الانسان",
+        "english_name": "Al-Insan",
+        "number_of_ayas": 31,
+        "sura_id": 76,
+        "tigrigna_name": "እቲ ወድ-ሰብ",
+        "tigrigna_sura_name_translated": "እቲ ወድ-ሰብ"
+    },
+    {
+        "arabic_name": "المرسلٰت",
+        "english_name": "Al-Mursalat",
+        "number_of_ayas": 50,
+        "sura_id": 77,
+        "tigrigna_name": "እቶም ተለኣኣኽቲ",
+        "tigrigna_sura_name_translated": "እቶም ተለኣኣኽቲ"
+    },
+    {
+        "arabic_name": "النبأ",
+        "english_name": "An-Naba'",
+        "number_of_ayas": 40,
+        "sura_id": 78,
+        "tigrigna_name": "እቲ ወረ",
+        "tigrigna_sura_name_translated": "እቲ ወረ"
+    },
+    {
+        "arabic_name": "النّٰزعٰت",
+        "english_name": "An-Nazi'at",
+        "number_of_ayas": 46,
+        "sura_id": 79,
+        "tigrigna_name": "እቶም መንዘዕቲ",
+        "tigrigna_sura_name_translated": "እቶም መንዘዕቲ"
+    },
+    {
+        "arabic_name": "عبس",
+        "english_name": "'Abasa",
+        "number_of_ayas": 42,
+        "sura_id": 80,
+        "tigrigna_name": "ተጸወገ",
+        "tigrigna_sura_name_translated": "ተጸወገ"
+    },
+    {
+        "arabic_name": "التكوير",
+        "english_name": "At-Takwir",
+        "number_of_ayas": 29,
+        "sura_id": 81,
+        "tigrigna_name": "እቲ ምኽባብ",
+        "tigrigna_sura_name_translated": "እቲ ምኽባብ"
+    },
+    {
+        "arabic_name": "الانفطار",
+        "english_name": "Al-Infitar",
+        "number_of_ayas": 19,
+        "sura_id": 82,
+        "tigrigna_name": "እቲ ምትርጋእ",
+        "tigrigna_sura_name_translated": "እቲ ምትርጋእ"
+    },
+    {
+        "arabic_name": "المطفّفين",
+        "english_name": "Al-Mutaffifin",
+        "number_of_ayas": 36,
+        "sura_id": 83,
+        "tigrigna_name": "እቶም ስፍሪ ዘጉደሉ",
+        "tigrigna_sura_name_translated": "እቶም ስፍሪ ዘጉደሉ"
+    },
+    {
+        "arabic_name": "الانشقاق",
+        "english_name": "Al-Insyiqaq",
+        "number_of_ayas": 25,
+        "sura_id": 84,
+        "tigrigna_name": "እቲ ምጭዳድ",
+        "tigrigna_sura_name_translated": "እቲ ምጭዳድ"
+    },
+    {
+        "arabic_name": "البروج",
+        "english_name": "Al-Buruj",
+        "number_of_ayas": 22,
+        "sura_id": 85,
+        "tigrigna_name": "እተን ከዋኽብቲ",
+        "tigrigna_sura_name_translated": "እተን ከዋኽብቲ"
+    },
+    {
+        "arabic_name": "الطارق",
+        "english_name": "At-Tariq",
+        "number_of_ayas": 17,
+        "sura_id": 86,
+        "tigrigna_name": "እቲ ለይታዊ ኮኾብ",
+        "tigrigna_sura_name_translated": "እቲ ለይታዊ ኮኾብ"
+    },
+    {
+        "arabic_name": "الاعلى",
+        "english_name": "Al-A'la",
+        "number_of_ayas": 19,
+        "sura_id": 87,
+        "tigrigna_name": "እቲ ልዑል",
+        "tigrigna_sura_name_translated": "እቲ ልዑል"
+    },
+    {
+        "arabic_name": "الغاشية",
+        "english_name": "Al-Gasyiyah",
+        "number_of_ayas": 26,
+        "sura_id": 88,
+        "tigrigna_name": "እታ ሸፋኒት",
+        "tigrigna_sura_name_translated": "እታ ሸፋኒት"
+    },
+    {
+        "arabic_name": "الفجر",
+        "english_name": "Al-Fajr",
+        "number_of_ayas": 30,
+        "sura_id": 89,
+        "tigrigna_name": "እቲ ወጋሕታ",
+        "tigrigna_sura_name_translated": "እቲ ወጋሕታ"
+    },
+    {
+        "arabic_name": "البلد",
+        "english_name": "Al-Balad",
+        "number_of_ayas": 20,
+        "sura_id": 90,
+        "tigrigna_name": "እታ ዓዲ",
+        "tigrigna_sura_name_translated": "እታ ዓዲ"
+    },
+    {
+        "arabic_name": "الشمس",
+        "english_name": "Asy-Syams",
+        "number_of_ayas": 15,
+        "sura_id": 91,
+        "tigrigna_name": "እታ ጸሓይ",
+        "tigrigna_sura_name_translated": "እታ ጸሓይ"
+    },
+    {
+        "arabic_name": "الّيل",
+        "english_name": "Al-Lail",
+        "number_of_ayas": 21,
+        "sura_id": 92,
+        "tigrigna_name": "እታ ለይቲ",
+        "tigrigna_sura_name_translated": "እታ ለይቲ"
+    },
+    {
+        "arabic_name": "الضحى",
+        "english_name": "Ad-Duha",
+        "number_of_ayas": 11,
+        "sura_id": 93,
+        "tigrigna_name": "እቲ ረፍዲ",
+        "tigrigna_sura_name_translated": "እቲ ረፍዲ"
+    },
+    {
+        "arabic_name": "الشرح",
+        "english_name": "Asy-Syarh",
+        "number_of_ayas": 8,
+        "sura_id": 94,
+        "tigrigna_name": "እቲ ልቢ ምኽፋት",
+        "tigrigna_sura_name_translated": "እቲ ልቢ ምኽፋት"
+    },
+    {
+        "arabic_name": "التين",
+        "english_name": "At-Tin",
+        "number_of_ayas": 8,
+        "sura_id": 95,
+        "tigrigna_name": "እቲ በለስ ጥልያን",
+        "tigrigna_sura_name_translated": "እቲ በለስ ጥልያን"
+    },
+    {
+        "arabic_name": "العلق",
+        "english_name": "Al-'Alaq",
+        "number_of_ayas": 19,
+        "sura_id": 96,
+        "tigrigna_name": "እቲ ርጋእ ደም",
+        "tigrigna_sura_name_translated": "እቲ ርጋእ ደም"
+    },
+    {
+        "arabic_name": "القدر",
+        "english_name": "Al-Qadr",
+        "number_of_ayas": 5,
+        "sura_id": 97,
+        "tigrigna_name": "እቲ ውሳኔ",
+        "tigrigna_sura_name_translated": "እቲ ውሳኔ"
+    },
+    {
+        "arabic_name": "البيّنة",
+        "english_name": "Al-Bayyinah",
+        "number_of_ayas": 8,
+        "sura_id": 98,
+        "tigrigna_name": "እታ መርትዖ",
+        "tigrigna_sura_name_translated": "እታ መርትዖ"
+    },
+    {
+        "arabic_name": "الزلزلة",
+        "english_name": "Az-Zalzalah",
+        "number_of_ayas": 8,
+        "sura_id": 99,
+        "tigrigna_name": "እቲ ምንቅጥቃጥ",
+        "tigrigna_sura_name_translated": "እቲ ምንቅጥቃጥ"
+    },
+    {
+        "arabic_name": "العٰديٰت",
+        "english_name": "Al-'Adiyat",
+        "number_of_ayas": 11,
+        "sura_id": 100,
+        "tigrigna_name": "እተን ኣጋለብቲ",
+        "tigrigna_sura_name_translated": "እተን ኣጋለብቲ"
+    },
+    {
+        "arabic_name": "القارعة",
+        "english_name": "Al-Qari'ah",
+        "number_of_ayas": 11,
+        "sura_id": 101,
+        "tigrigna_name": "እታ ኮራዕ ኣባሊት",
+        "tigrigna_sura_name_translated": "እታ ኮራዕ ኣባሊት"
+    },
+    {
+        "arabic_name": "التكاثر",
+        "english_name": "At-Takasur",
+        "number_of_ayas": 8,
+        "sura_id": 102,
+        "tigrigna_name": "እቲ ምብዛሕ",
+        "tigrigna_sura_name_translated": "እቲ ምብዛሕ"
+    },
+    {
+        "arabic_name": "العصر",
+        "english_name": "Al-'Asr",
+        "number_of_ayas": 3,
+        "sura_id": 103,
+        "tigrigna_name": "እቲ ዘመን",
+        "tigrigna_sura_name_translated": "እቲ ዘመን"
+    },
+    {
+        "arabic_name": "الهمزة",
+        "english_name": "Al-Humazah",
+        "number_of_ayas": 9,
+        "sura_id": 104,
+        "tigrigna_name": "እቲ ምኽፋእ",
+        "tigrigna_sura_name_translated": "እቲ ምኽፋእ"
+    },
+    {
+        "arabic_name": "الفيل",
+        "english_name": "Al-Fil",
+        "number_of_ayas": 5,
+        "sura_id": 105,
+        "tigrigna_name": "እቲ ሓርማዝ",
+        "tigrigna_sura_name_translated": "እቲ ሓርማዝ"
+    },
+    {
+        "arabic_name": "قريش",
+        "english_name": "Quraisy",
+        "number_of_ayas": 4,
+        "sura_id": 106,
+        "tigrigna_name": "ቁረይሽ",
+        "tigrigna_sura_name_translated": "ቁረይሽ"
+    },
+    {
+        "arabic_name": "الماعون",
+        "english_name": "Al-Ma'un",
+        "number_of_ayas": 7,
+        "sura_id": 107,
+        "tigrigna_name": "እቲ ኣቕሓ",
+        "tigrigna_sura_name_translated": "እቲ ኣቕሓ"
+    },
+    {
+        "arabic_name": "الكوثر",
+        "english_name": "Al-Kausar",
+        "number_of_ayas": 3,
+        "sura_id": 108,
+        "tigrigna_name": "እቲ ቁሩጽ",
+        "tigrigna_sura_name_translated": "እቲ ቁሩጽ"
+    },
+    {
+        "arabic_name": "الكٰفرون",
+        "english_name": "Al-Kafirun",
+        "number_of_ayas": 6,
+        "sura_id": 109,
+        "tigrigna_name": "እቶም ከሓድቲ",
+        "tigrigna_sura_name_translated": "እቶም ከሓድቲ"
+    },
+    {
+        "arabic_name": "النصر",
+        "english_name": "An-Nasr",
+        "number_of_ayas": 3,
+        "sura_id": 110,
+        "tigrigna_name": "እቲ ዓወት",
+        "tigrigna_sura_name_translated": "እቲ ዓወት"
+    },
+    {
+        "arabic_name": "اللهب",
+        "english_name": "Al-Lahab",
+        "number_of_ayas": 5,
+        "sura_id": 111,
+        "tigrigna_name": "እቲ ፍሕሶ",
+        "tigrigna_sura_name_translated": "እቲ ፍሕሶ"
+    },
+    {
+        "arabic_name": "الاخلاص",
+        "english_name": "Al-Ikhlas",
+        "number_of_ayas": 4,
+        "sura_id": 112,
+        "tigrigna_name": "እቲ ንጽህና",
+        "tigrigna_sura_name_translated": "እቲ ንጽህና"
+    },
+    {
+        "arabic_name": "الفلق",
+        "english_name": "Al-Falaq",
+        "number_of_ayas": 5,
+        "sura_id": 113,
+        "tigrigna_name": "እቲ ንግሆ",
+        "tigrigna_sura_name_translated": "እቲ ንግሆ"
+    },
+    {
+        "arabic_name": "الناس",
+        "english_name": "An-Nas",
+        "number_of_ayas": 6,
+        "sura_id": 114,
+        "tigrigna_name": "እቶም ደቂ-ሰብ",
+        "tigrigna_sura_name_translated": "እቶም ደቂ-ሰብ"
+    }
+]

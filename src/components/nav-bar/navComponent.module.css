@@ -1,0 +1,143 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5em 3em;
+  background-color: var(--background-color);
+  border-bottom: 1px solid var(--nav-color);
+  position: relative;
+}
+
+.leftSection {
+  display: flex;
+  align-items: center;
+  font-family: 'amiri-quran';
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+}
+.logoArabic{
+  font-size: 24px;
+  font-family: 'amiri-quran';
+  margin-right: 20px;
+}
+.logoImage {
+  width: 15%;
+  height: auto;
+  margin-right: 0.6em;
+ 
+}
+
+.logoDarkMode{
+  width: 15%;
+  height: auto;
+  margin-right: 0.6em;
+}
+
+.logoTigrigna {
+  font-size: 24px;
+  font-family: 'amiri-quran';
+}
+
+.logo-tigrigna i {
+  margin-right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.centerSection {
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.link {
+  margin-right: 5%;
+  font-size: 24px;
+  font-family: 'yebse', sans-serif;
+  text-decoration: none;
+  color: var(--nav-color);
+  position: relative;
+}
+
+.link:hover,
+.link:focus {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+.link::after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 3px;
+  background: var(--primary-color);
+  position: absolute;
+  bottom: -5px; /* Adjust this value to position the border lower */
+  left: 0;
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+.link.active::after {
+  transform: scaleX(1);
+}
+
+.rightSection {
+  display: flex;
+  align-items: center;
+  color: var(--nav-color);
+  font-size: 30px;
+  cursor:pointer;
+}
+
+.material-icons {
+  font-size: 30px;
+  cursor:pointer;
+}
+
+.menu {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: var(--card-bg-color);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--card-box-shadow);
+  padding: 1em;
+  margin: 0.1em 0em;
+  z-index: 2;
+  cursor: pointer;
+}
+
+.menuItem {
+  display: block;
+  padding: 0.5em 0;
+  color: var(--nav-color);
+  text-decoration: none;
+}
+
+.menuItem:hover,
+.menuItem:focus {
+  text-decoration: underline;
+  color: var(--primary-color);
+}
+
+img {
+  width: 15%;
+  height: auto;
+  margin-right: 0.6em;
+  shape-outside: var(--background-color);
+}
+
+@media (max-width: 576px) {
+  .centerSection {
+    display: none;
+  }
+}

@@ -1,0 +1,81 @@
+.toggle-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: Arial, sans-serif;
+  margin: 5px; /* Add margin of 5px to the component container */
+  font-weight: bold;
+  font-family: 'Ethiopic Yebse', sans-serif;
+}
+
+.toggle-content {
+  display: flex;
+  align-items: center;
+}
+
+.toggle-container.label-top .toggle-content {
+  flex-direction: column;
+}
+
+.toggle-container.label-right .toggle-content {
+  flex-direction: row-reverse;
+}
+
+.toggle-container.label-left .toggle-content {
+  flex-direction: row;
+}
+
+.toggle-label {
+  margin: 5px;
+  color: var(--text-color); /* Default label color */
+}
+
+.toggle-switch {
+  width: 50px;
+  height: 25px;
+  border-radius: 5px; /* Reduced border-radius for a more squared look */
+  background-color: #555; /* Default background color */
+  position: relative;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.toggle-switch.primary.enabled {
+  background-color: var(--primary-color); /* Change background color when enabled */
+}
+
+.toggle-switch.secondary.enabled {
+  background-color: var(--secondary-color);
+}
+
+.toggle-switch.info.enabled {
+  background-color: var(--info-color);
+}
+
+.toggle-switch.success.enabled {
+  background-color: var(--success-color);
+}
+
+.toggle-switch.warning.enabled {
+  background-color: var(--warning-color);
+}
+
+.toggle-switch.danger.enabled {
+  background-color: var(--danger-color);
+}
+
+.toggle-knob {
+  width: 20px;
+  height: 20px;
+  border-radius: 3px; /* Reduced border-radius for a more squared look */
+  background-color: #fff; /* Default knob color */
+  position: absolute;
+  top: 50%;
+  left: 2px; /* Adjusted to fit the squared look */
+  transform: translateY(-50%);
+  transition: left 0.3s ease;
+}
+
+.toggle-switch.enabled .toggle-knob {
+  left: 28px; /* Adjusted to fit the squared look */
+}

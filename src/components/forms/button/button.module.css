@@ -1,0 +1,192 @@
+/* button.module.css */
+.btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  font-family: 'Ethiopic Yebse', sans-serif;
+  padding: 0.3rem 0.3rem;
+  border: none;
+  min-width: 1vw;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  border-style: solid;
+  transition: opacity 0.3s ease; /* Transition effect */
+}
+
+.btn:hover {
+  opacity: 0.8; /* Dim button opacity on hover */
+}
+
+.btn .material-icons {
+  font-size: 1.25rem;
+}
+
+/* Theme styles */
+.btn-primary {
+  background-color: var(--primary-color);
+  color: var(--button-text-color);
+  border-color: var(--primary-color);
+}
+
+.btn-secondary {
+  background-color: var(--secondary-color);
+  color: var(--button-text-color);
+  border-color: var(--secondary-color);
+}
+
+.btn-info {
+  background-color: var(--info-color);
+  color: var(--button-text-color);
+  border-color: var(--info-color);
+}
+
+.btn-success {
+  background-color: var(--success-color);
+  color: var(--button-text-color);
+  border-color: var(--success-color);
+}
+
+.btn-danger {
+  background-color: var(--danger-color);
+  color: var(--button-text-color);
+  border-color: var(--danger-color);
+}
+
+.btn-warning {
+  background-color: var(--warning-color);
+  color: var(--button-text-color);
+  border-color: var(--warning-color);
+}
+
+/* Outlined button styles */
+.btn-outlined-primary {
+  color: var(--primary-color);
+  border-color: var(--primary-color);
+  background-color: transparent;
+}
+
+.btn-outlined-secondary {
+  color: var(--secondary-color);
+  border-color: var(--secondary-color);
+  background-color: transparent;
+}
+
+.btn-outlined-info {
+  color: var(--info-color);
+  border-color: var(--info-color);
+  background-color: transparent;
+}
+
+.btn-outlined-success {
+  color: var(--success-color);
+  border-color: var(--success-color);
+  background-color: transparent;
+}
+
+.btn-outlined-danger {
+  color: var(--danger-color);
+  border-color: var(--danger-color);
+  background-color: transparent;
+}
+
+.btn-outlined-warning {
+  color: var(--warning-color);
+  border-color: var(--warning-color);
+  background-color: transparent;
+}
+
+/* Badge styles */
+.badge {
+  display: inline-flex; /* Ensure inline display */
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  padding: 0; /* Remove padding */
+  font-weight: bold; /* Optionally adjust font weight */
+  margin-left: var(--spacing, 0.25rem); /* Add some space between badge and text */
+  width: 1.5em; /* Set width */
+  height: 1.5em; /* Set height */
+  border-radius: 50%; /* Make badge circular */
+  text-align: center; /* Ensure text is centered */
+  line-height: 1.5em; /* Center text vertically */
+}
+
+.btn-primary > .badge {
+  color: var(--primary-color); /* Use primary color as text color */
+  background-color: var(--background-color); /* Use body color as background color */
+}
+
+.btn-secondary > .badge {
+  color: var(--secondary-color); /* Use secondary color as text color */
+  background-color: var(--background-color); /* Use body color as background color */
+}
+
+.btn-info > .badge {
+  color: var(--info-color); /* Use info color as text color */
+  background-color: var(--background-color); /* Use body color as background color */
+}
+
+.btn-danger > .badge {
+  color: var(--danger-color); /* Use danger color as text color */
+  background-color: var(--background-color); /* Use body color as background color */
+}
+
+.btn-success > .badge {
+  color: var(--success-color); /* Use success color as text color */
+  background-color: var(--background-color); /* Use body color as background color */
+}
+
+.btn-warning > .badge {
+  color: var(--warning-color); /* Use warning color as text color */
+  background-color: var(--background-color); /* Use body color as background color */
+}
+
+.btn-outlined-primary > .badge {
+  color: var(--badge-text-color); /* Use body color as text color */
+  background-color: var(--primary-color); /* Use primary color as background color */
+}
+
+.btn-outlined-secondary > .badge {
+  color: var(--badge-text-color); /* Use body color as text color */
+  background-color: var(--secondary-color); /* Use secondary color as background color */
+}
+
+.btn-outlined-info > .badge {
+  color: var(--badge-text-color); /* Use body color as text color */
+  background-color: var(--info-color); /* Use info color as background color */
+}
+
+.btn-outlined-danger > .badge {
+  color: var(--badge-text-color); /* Use body color as text color */
+  background-color: var(--danger-color); /* Use danger color as background color */
+}
+
+.btn-outlined-warning > .badge {
+  color: var(--badge-text-color); /* Use body color as text color */
+  background-color: var(--warning-color); /* Use warning color as background color */
+}
+
+.btn-outlined-success > .badge {
+  color: var(--badge-text-color); /* Use body color as text color */
+  background-color: var(--success-color); /* Use success color as background color */
+}
+
+
+/* custom styling for bookmark */
+
+.btn-bookmark{
+  margin: 0.1em 0.2em;
+  padding:0.1em 0em;
+  max-width:4em;
+
+}
+
+.btn-note{
+  margin: 0em -0.5em 0em 0.1em; 
+  padding:0.1em 0em;
+  max-width: 2em;
+}
+
