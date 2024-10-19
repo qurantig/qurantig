@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26607e0f.css",
+    "main.js": "/static/js/main.10a473c1.js",
+    "static/js/453.a524dd81.chunk.js": "/static/js/453.a524dd81.chunk.js",
+    "static/media/amiri-regular.ttf": "/static/media/amiri-regular.5724dbc2349b8f03af4a.ttf",
+    "static/media/amiri-slanted.ttf": "/static/media/amiri-slanted.f3efd9b3e7f5e8304fb7.ttf",
+    "static/media/amiri-boldslanted.ttf": "/static/media/amiri-boldslanted.c1c699f35b0a441e3e44.ttf",
+    "static/media/amiri-bold.ttf": "/static/media/amiri-bold.4a03418ef6a5a6f95e67.ttf",
+    "static/media/WOOKIANOS.ttf": "/static/media/WOOKIANOS.5bf752b889c7c94ca05b.ttf",
+    "static/media/YEBSE.ttf": "/static/media/YEBSE.9d38ce7e04b51b860215.ttf",
+    "static/media/GO MONO BOLD ITALIC FOR POWERLINE.ttf": "/static/media/GO MONO BOLD ITALIC FOR POWERLINE.f94d90d5c6386ea3c4aa.ttf",
+    "static/media/GO MONO ITALIC FOR POWERLINE.ttf": "/static/media/GO MONO ITALIC FOR POWERLINE.b4d3b71e8211a96068df.ttf",
+    "static/media/GO MONO BOLD FOR POWERLINE.ttf": "/static/media/GO MONO BOLD FOR POWERLINE.c917cb83d96a862e1820.ttf",
+    "static/media/GO MONO FOR POWERLINE.ttf": "/static/media/GO MONO FOR POWERLINE.984c6eac59b3f30e3f90.ttf",
+    "static/media/amiri-quran-colored.ttf": "/static/media/amiri-quran-colored.394278687ce9e83b9410.ttf",
+    "static/media/ADDIS.ttf": "/static/media/ADDIS.3203b9d1e26035699fc5.ttf",
+    "static/media/amiri-quran.ttf": "/static/media/amiri-quran.342a21938cb2b57f0103.ttf",
+    "static/media/logo192.png": "/static/media/logo192.a6f69b9ac0a9f28b6503.png",
+    "index.html": "/index.html",
+    "main.26607e0f.css.map": "/static/css/main.26607e0f.css.map",
+    "main.10a473c1.js.map": "/static/js/main.10a473c1.js.map",
+    "453.a524dd81.chunk.js.map": "/static/js/453.a524dd81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26607e0f.css",
+    "static/js/main.10a473c1.js"
+  ]
+}
